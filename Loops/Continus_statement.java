@@ -10,7 +10,7 @@ public class Continus_statement {
         int x = sc.nextInt();
         for (int i = 1; i <=100 ; i++) {
             if (i%2 ==1) {
-                continue; //continue means skip this itrations
+                continue; //continue means skip this itrations  
             }
             System.out.print(i+" ");
 
