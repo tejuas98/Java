@@ -8,10 +8,10 @@ public class Do_while_Loop {
         System.out.print("Enter Number : ");
         int n = sc.nextInt();
 
-//        int i =1;
-//        for (;i<=10;);
-//        System.out.print(i+" ");
-//        i++;
+//        for (int i = 0; i <=n ; i++) {
+//            System.out.println(i);
+//
+//        }
 
 //        int i = 1;
 //        while (i<=n){
