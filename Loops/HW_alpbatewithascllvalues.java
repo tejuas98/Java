@@ -8,7 +8,7 @@ public class HW_alpbatewithascllvalues {
         System.out.print("Enter Number : ");
         int n = sc.nextInt();
 
-        for (int i = n; i <=90 ; i++) {
+        for (int i = n; i <=122 ; i++) {
             System.out.println((char)i + " " + i);
             
         }
