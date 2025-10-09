@@ -1,6 +1,6 @@
 package Basic_chezze;
 
-public class first_program {
+public class  first_program {
     public static void main(String[] args) {
 //        yaha saara code hoga
 //use ln foe nxt line
