@@ -12,7 +12,7 @@ public class HW {
             System.out.println("Yes this number is divisble by 5");
         }
         else {
-            System.out.println("No this number is divisble by 5");
+            System.out.println("No this number is divisble by 5"); 
         }
     }
 }
